@@ -17,5 +17,5 @@
 - Ingressar no mercado de trabalho como desenvolvedor júnior
 
 ### 📫 Como me encontrar:
-[LinkedIn](www.linkedin.com/in/coutinho-dev-99b036341)  
+[LinkedIn](www.linkedin.com/in/coutinho-dev)  
 Email: felipe6coutinho@gmail.com
