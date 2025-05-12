@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Felipe!
 
-<!--
-**F3lpzn/F3lpzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Aprendendo JavaScript e Angular em um bootcamp  
+🚀 Buscando minha primeira oportunidade na área de desenvolvimento  
+📚 Apaixonado por tecnologia e sempre em busca de novos aprendizados
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou estudando:
+- HTML, CSS, JavaScript
+- Angular
+- Git e GitHub
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Objetivos atuais:
+- Construir projetos práticos para portfólio
+- Aprofundar meus conhecimentos em front-end
+- Ingressar no mercado de trabalho como desenvolvedor júnior
+
+### 📫 Como me encontrar:
+[LinkedIn](www.linkedin.com/in/coutinho-dev-99b036341)  
+Email: felipe6coutinho@gmail.com
